@@ -1,0 +1,19 @@
+/*element.classList.add('app');
+element.classList.add('tittle');
+element.classList.add('line');
+element.classList.add('subTittle');
+element.classList.add('logo');
+element.classList.add('gap');
+element.classList.add('gap1');
+element.classList.add('wholeHourPrice');
+element.classList.add('halfHourPrice');
+*/
+/*
+var myIcon = new Image();
+myIcon.src = Icon;
+element.appendChild(myIcon);
+*/
+
+
+//import './style.css';
+//import Icon from './icon.png';
